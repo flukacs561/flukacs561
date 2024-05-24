@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @flukacs561
+- 👋 Hi, I’m Ferenc
 - 👀 I’m interested in functional programming and its mathematical foundations (mostly category theory)
 - 🌱 I’m currently learning dependent types with Agda
 
